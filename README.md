@@ -1,4 +1,5 @@
 # Whether-Dashboard
+- This project is part of the Codveda internship as a Front End Engineer. [Internship Offer Letter](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324392120541151233)
 
 ## Project Overview
 
@@ -14,7 +15,11 @@ The Whether-Dashboard is a web application designed to provide users with real-t
 
 ## Screenshots
 
+### Screen Shot of the Project's Interface
 ![Dashboard Screenshot](<src/assets/Screenshot 2025-05-26 at 1.52.36 AM.png>)
+
+### the Task Requirements
+![Task Requirements](https://github.com/adhamhaithameid/Whether-Dashboard/blob/02b4eff357777d0742c147927e2dab3fc261c695/Front-End%20Task%20List-10_page-0001.jpg)
 
 ## Setup Instructions
 
@@ -45,3 +50,6 @@ The Whether-Dashboard is a web application designed to provide users with real-t
 - Vite
 - Tailwind CSS
 - Recharts
+
+## Linkedin Post
+- [Internship Offer Letter](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324392120541151233)
