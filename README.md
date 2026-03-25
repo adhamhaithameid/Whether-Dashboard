@@ -1,5 +1,4 @@
 # Whether-Dashboard
-- This project is part of the Codveda internship as a Front End Engineer. [Internship Offer Letter](https://www.linkedin.com/embed/feed/update/urn:li:ugcPost:7324392120541151233)
 - Go Check the Youtube Video of the Project. [Youtube Video](https://youtu.be/GC9kc_DHjqo)
 
 ## Project Overview
